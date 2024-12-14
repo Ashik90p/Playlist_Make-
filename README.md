@@ -20,5 +20,17 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8?v=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfjvRsn/Picsart-23-06-07-11-07-21-738.png" group-title="BANGLADESHI CHANNELS", MY TV HD
 https://mytvbangla.com/0.m3u8?v=1
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="MOVIES CHANNELS", SHEEMAROO BOLLYWOOD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8?v=1
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
