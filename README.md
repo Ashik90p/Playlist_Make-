@@ -41,8 +41,8 @@ https://247stream.one/ayna/stream.m3u8?id=27&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KhbSC62/images-11.jpg" group-title="BANGLADESHI CHANNELS", Duronto TV
 https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=onvuuXUd-JyDaqvG7JBhJA&expires=1734504144&user=7e48d7e5f01d439f8a06d1e1dd00dded
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Hubba 
+http://103.112.150.230/Data/disk1/movies/indianbangla/Hubba%20%282024%29/Hubba%20%282024%29.mkv
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
