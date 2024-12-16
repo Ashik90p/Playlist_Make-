@@ -27,7 +27,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723795259114.png" group-title="SPORTS", Star Sports 1
-http://tv.cloudcdn.me:80/live.ts?channelId=49566&uid=16068&deviceMac=00:1A:79:ED:10:29
+https://247stream.one/ayna/stream.m3u8?id=44&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5yQ3Fc/NTV-Bangladesh-logo-svg.png" group-title="BANGLADESHI CHANNELS", NTv
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
