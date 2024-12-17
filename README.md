@@ -47,6 +47,30 @@ http://103.112.150.230/Data/disk1/movies/indianbangla/Hubba%20%282024%29/Hubba%2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="SPORTS", Abu Dhabi Sports 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SnwRDxv/download.jpg" group-title="BANGLADESHI CHANNELS", SA tv
+https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=MnhV8DFy_4Z2_PjfheSKNg&expires=1734575619&user=7e48d7e5f01d439f8a06d1e1dd00dded
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XSVG8ZS/download-1.jpg" group-title="BANGLADESHI CHANNELS", RTV 
+https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=VJ9cqCu8SWJTJnIiNvdlLQ&expires=1734575715&user=7e48d7e5f01d439f8a06d1e1dd00dded
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
 
