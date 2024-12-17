@@ -76,3 +76,42 @@ https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=q24fgIHf89LKAl
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
