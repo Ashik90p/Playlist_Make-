@@ -80,8 +80,8 @@ https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=_8pGpXiENe7UJ
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/4T1LXDd/images-14.jpg" group-title="BANGLADESHI CHANNELS", Channel 9
 https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=yuK3kN4UpYcUf4oupP9laQ&expires=1734576406&user=7e48d7e5f01d439f8a06d1e1dd00dded
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8mRnm4r/images-16.jpg" group-title="WEBSITES", Dour ep1
+http://103.112.150.230/Data/disk5/tvseries/new/Dour%202022//s01/Dour%202022%20Bengali%20S01E01%201080p%20WEB-DL%20H264%20AAC2.0-[Hasan].mp4
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
