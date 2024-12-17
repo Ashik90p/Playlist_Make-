@@ -8,8 +8,8 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926120317.png" group-title="BANGLADESHI CHANNELS", BTV
 http://tv.cloudcdn.me:80/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4xcPv5j/Colors-Bangla-HD.png" group-title="INDIAN BANGLA", Colors Bangla HD
-https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fnBL0Pb/download-2.png" group-title="BD NEWS", News 24
+https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=dmqAl1nz_DHhHu0AmKcoJg&expires=1734575811&user=7e48d7e5f01d439f8a06d1e1dd00dded
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtpDWpzN/Enterr10.png" group-title="INDIAN BANGLA", Inter 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
@@ -53,26 +53,26 @@ https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=MnhV8DFy_4Z2_Pjfh
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XSVG8ZS/download-1.jpg" group-title="BANGLADESHI CHANNELS", RTV 
 https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=VJ9cqCu8SWJTJnIiNvdlLQ&expires=1734575715&user=7e48d7e5f01d439f8a06d1e1dd00dded
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G2h3Ty3/images-4.png" group-title="BANGLADESHI CHANNELS", SOMOY TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G2h3Ty3/images-4.png" group-title="BD NEWS", SOMOY TV
 https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=372Yx19gyFTR0OQSIifugQ&expires=1734575755&user=7e48d7e5f01d439f8a06d1e1dd00dded
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n3Ndbrs/images-6.png" group-title="BANGLADESHI CHANNELS", Nagorik Tv
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=ZyNye9LWqWCUaXZvqQylnQ&expires=1734575867&user=7e48d7e5f01d439f8a06d1e1dd00dded
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GxZdHzf/lotus-tv.png" group-title="OTHERS COUNTRY", LOTUS tv
+https://edge01.iptv.digijadoo.net/live/macau_lotus/playlist.m3u8?md5=CSk9i4VAl0yj41b_i4HhGg&expires=1734575979&user=7e48d7e5f01d439f8a06d1e1dd00dded
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rdVXHtx/images-7.png" group-title="BANGLADESHI CHANNELS", Gazi Tv
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=qvmIh-PytQtGLoWFmCiBxQ&expires=1734576048&user=7e48d7e5f01d439f8a06d1e1dd00dded
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TvdjzCT/images-8.png" group-title="BD NEWS", Ekattor TV
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=3xMuauSv4ukQVMH90kI4KA&expires=1734576128&user=7e48d7e5f01d439f8a06d1e1dd00dded
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VpssGg7/images-9.png" group-title="OTHERS COUNTRY", DW English 
+https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8?md5=FvF0kM1eHxHFE-pP60nwKA&expires=1734576243&user=7e48d7e5f01d439f8a06d1e1dd00dded
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HGCZJn8/images-10.png" group-title="BD NEWS", News24
+https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=q24fgIHf89LKAl1Rx5-zzg&expires=1734576304&user=7e48d7e5f01d439f8a06d1e1dd00dded
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
