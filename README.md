@@ -35,8 +35,8 @@ https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/thndj9L/atn-bangla-logo-png-seeklogo-537053.png" group-title="BANGLADESHI CHANNELS", ATN Bangla 
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=wNepZ7_GsgDpwsz28VdGyg&expires=1734503288&user=7e48d7e5f01d439f8a06d1e1dd00dded
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pwdq4RY/Pixahunt-9beb581fe5a734755f596f63c18670ac.jpg" group-title="SPORTS", T sports 
-https://cdn-tsports.iptvbd.xyz/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pwdq4RY/Pixahunt-9beb581fe5a734755f596f63c18670ac.jpg" group-title="SPORTS", T sports
+https://tvs1.aynaott.com/tsportsfhd/index.m3u8?hdnts=st=1734455796~exp=1734485796~acl=/tsportsfhd/*~data=103.89.27.24-WEB~hmac=c1b96c2007970ddf2f34b69fab1d4ce1b98cf044618f694c36e50c33f823c1cf
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KhbSC62/images-11.jpg" group-title="BANGLADESHI CHANNELS", Duronto TV
 https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=onvuuXUd-JyDaqvG7JBhJA&expires=1734504144&user=7e48d7e5f01d439f8a06d1e1dd00dded
