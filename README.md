@@ -8,6 +8,9 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926120317.png" group-title="BANGLADESHI CHANNELS", BTV
 https://tvs1.aynaott.com/btvhd/index.m3u8?hdnts=st=1734524065~exp=1734567265~acl=/buddyxiptv/*~data=103.89.27.28-WEB~hmac=ee4542e764f8c2d222470d79c0249ad0cc1618288ff97f4cb925f9e090ff9202
 
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png" group-title="BANGLADESHI CHANNELS", BTV World
+https://tvs1.aynaott.com/btv_world/index.m3u8?hdnts=st=1734524322~exp=1734567522~acl=/buddyxiptv/*~data=103.89.27.28-WEB~hmac=0eb7796a260a388250f68a74a4834d4038074b202308db762d74404d841d2037
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fnBL0Pb/download-2.png" group-title="BD NEWS", News 24
 https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=dmqAl1nz_DHhHu0AmKcoJg&expires=1734575811&user=7e48d7e5f01d439f8a06d1e1dd00dded
 
