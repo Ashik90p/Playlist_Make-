@@ -6,7 +6,7 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926120317.png" group-title="BANGLADESHI CHANNELS", BTV
-http://tv.cloudcdn.me:80/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
+https://tvs1.aynaott.com/btvhd/index.m3u8?hdnts=st=1734524065~exp=1734567265~acl=/buddyxiptv/*~data=103.89.27.28-WEB~hmac=ee4542e764f8c2d222470d79c0249ad0cc1618288ff97f4cb925f9e090ff9202
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fnBL0Pb/download-2.png" group-title="BD NEWS", News 24
 https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=dmqAl1nz_DHhHu0AmKcoJg&expires=1734575811&user=7e48d7e5f01d439f8a06d1e1dd00dded
