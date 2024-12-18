@@ -11,6 +11,57 @@ https://tvs1.aynaott.com/btvhd/index.m3u8?hdnts=st=1734524065~exp=1734567265~acl
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png" group-title="BANGLADESHI CHANNELS", BTV World
 https://tvs1.aynaott.com/btv_world/index.m3u8?hdnts=st=1734524322~exp=1734567522~acl=/buddyxiptv/*~data=103.89.27.28-WEB~hmac=0eb7796a260a388250f68a74a4834d4038074b202308db762d74404d841d2037
 
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3726c298-6651-4139-a505-97fe9ee96430_180x180_47fc05ff-db30-4653-b445-57156643f9ce.png" group-title="BANGLADESHI CHANNELS", BTV Chattogram
+https://tvs1.aynaott.com/btvctg/index.m3u8?hdnts=st=1734524322~exp=1734567522~acl=/buddyxiptv/*~data=103.89.27.28-WEB~hmac=0eb7796a260a388250f68a74a4834d4038074b202308db762d74404d841d2037
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png" group-title="BANGLADESHI CHANNELS", Ekushey TV
+https://tvs1.aynaott.com/etv/index.m3u8?hdnts=st=1734524322~exp=1734567522~acl=/buddyxiptv/*~data=103.89.27.28-WEB~hmac=0eb7796a260a388250f68a74a4834d4038074b202308db762d74404d841d2037
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5a1e2a64-898c-4538-b476-c437f48a0fd1_180x180_6af20fbc-6243-45a6-920e-954f942c82d6.png" group-title="BD NEWS", Independent TV
+https://tvs1.aynaott.com/independenttv/index.m3u8?hdnts=st=1734524322~exp=1734567522~acl=/buddyxiptv/*~data=103.89.27.28-WEB~hmac=0eb7796a260a388250f68a74a4834d4038074b202308db762d74404d841d2037
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1426078c-f33c-4451-b2e3-73f6a6a5787e_180x180_45a97962-9bbb-4b3b-b589-6012ecd68599.png" group-title="BANGLADESHI CHANNELS", Maasranga
+https://tvs1.aynaott.com/maasrangatv/index.m3u8?hdnts=st=1734524322~exp=1734567522~acl=/buddyxiptv/*~data=103.89.27.28-WEB~hmac=0eb7796a260a388250f68a74a4834d4038074b202308db762d74404d841d2037
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/358c5626-ce3c-4788-ad82-be5c77596b88_180x180_47579c04-9261-4973-b128-310e87592def.png" group-title="BANGLADESHI CHANNELS", Mohona TV
+https://tvs1.aynaott.com/mohonatv/index.m3u8?hdnts=st=1734524322~exp=1734567522~acl=/buddyxiptv/*~data=103.89.27.28-WEB~hmac=0eb7796a260a388250f68a74a4834d4038074b202308db762d74404d841d2037
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cedb767c-a1df-4c51-b159-684bc77f03aa_180x180_fbdee68d-a9aa-4cd7-9302-7f30fca5158d.png" group-title="BANGLADESHI CHANNELS", Bijoy TV
+https://tvs1.aynaott.com/bijoytv/index.m3u8?hdnts=st=1734524322~exp=1734567522~acl=/buddyxiptv/*~data=103.89.27.28-WEB~hmac=0eb7796a260a388250f68a74a4834d4038074b202308db762d74404d841d2037
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f9214b86-4bb5-47e9-9488-adb2bd14bf27_180x180_8b1db7bb-4597-4257-8846-567df3961cc2.png" group-title="BD NEWS", Jamuna TV
+https://tvs1.aynaott.com/jamunatv/index.m3u8?hdnts=st=1734524322~exp=1734567522~acl=/buddyxiptv/*~data=103.89.27.28-WEB~hmac=0eb7796a260a388250f68a74a4834d4038074b202308db762d74404d841d2037
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fnBL0Pb/download-2.png" group-title="BD NEWS", News 24
 https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=dmqAl1nz_DHhHu0AmKcoJg&expires=1734575811&user=7e48d7e5f01d439f8a06d1e1dd00dded
 
@@ -39,7 +90,7 @@ https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=wNepZ7_GsgDpwsz28VdGyg&expires=1734503288&user=7e48d7e5f01d439f8a06d1e1dd00dded
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pwdq4RY/Pixahunt-9beb581fe5a734755f596f63c18670ac.jpg" group-title="SPORTS", T sports
-https://tvs1.aynaott.com/tsportsfhd/index.m3u8?hdnts=st=1734456120~exp=1734486120~acl=/tsportsfhd/*~data=103.89.27.24-WEB~hmac=191ede8dbab26ed066f2576b7915e4d27796c689933e25f8bbe2502d069436ef
+https://tvs1.aynaott.com/tsportsfhd/index.m3u8?hdnts=st=1734524322~exp=1734567522~acl=/buddyxiptv/*~data=103.89.27.28-WEB~hmac=0eb7796a260a388250f68a74a4834d4038074b202308db762d74404d841d2037
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KhbSC62/images-11.jpg" group-title="BANGLADESHI CHANNELS", Duronto TV
 https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=onvuuXUd-JyDaqvG7JBhJA&expires=1734504144&user=7e48d7e5f01d439f8a06d1e1dd00dded
