@@ -129,7 +129,7 @@ https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8?md5=FvF0kM1eHxHFE-pP60nw
 https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=q24fgIHf89LKAl1Rx5-zzg&expires=1734576304&user=7e48d7e5f01d439f8a06d1e1dd00dded
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/SwtHTFp/images-11.png" group-title="BANGLADESHI CHANNELS", Channel i
-https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=_8pGpXiENe7UJ_KePUt3mw&expires=1734576356&user=7e48d7e5f01d439f8a06d1e1dd00dded
+https://jagobd.iptvbd.xyz/buddyxjagobd.php?channel-id=channeli-8-org.stream&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/4T1LXDd/images-14.jpg" group-title="BANGLADESHI CHANNELS", Channel 9
 https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=yuK3kN4UpYcUf4oupP9laQ&expires=1734576406&user=7e48d7e5f01d439f8a06d1e1dd00dded
