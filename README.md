@@ -5,9 +5,6 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCd1NsKK/moviebangla.jpg" group-title="BANGLADESHI CHANNELS", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926120317.png" group-title="BANGLADESHI CHANNELS", BTV
-https://www.its-ferdos-alom.top/api/ayna/allinoneott/live.php?id=1&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png" group-title="BANGLADESHI CHANNELS", BTV World
 https://tvs1.aynaott.com/btv_world/index.m3u8?hdnts=st=1734524322~exp=1734567522~acl=/buddyxiptv/*~data=103.89.27.28-WEB~hmac=0eb7796a260a388250f68a74a4834d4038074b202308db762d74404d841d2037
 
@@ -32,8 +29,8 @@ https://tvs1.aynaott.com/bijoytv/index.m3u8?hdnts=st=1734524322~exp=1734567522~a
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f9214b86-4bb5-47e9-9488-adb2bd14bf27_180x180_8b1db7bb-4597-4257-8846-567df3961cc2.png" group-title="BD NEWS", Jamuna TV
 https://tvs1.aynaott.com/jamunatv/index.m3u8?hdnts=st=1734524322~exp=1734567522~acl=/buddyxiptv/*~data=103.89.27.28-WEB~hmac=0eb7796a260a388250f68a74a4834d4038074b202308db762d74404d841d2037
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926120317.png" group-title="BANGLADESHI CHANNELS", Btv
+https://www.its-ferdos-alom.top/api/ayna/allinoneott/live.php?id=1&e=.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
